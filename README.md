@@ -32,3 +32,5 @@
 + I make sure that when I start a project I have a **PLAN** in mind, else I go nowhere - for this mindmapping and drawing helps me A LOT.
 + I want to have everything **UNDER CONTROL** - therefore I usually start projects from scratch, unless it's something unnecessary and easy.
 + Due to the things said above, plus my maniacal way of checking for spelling mistakes, things being in alphabetical (or at least a logical order) and everything being the way I like, I tend to take a little more time than usual - to reach the end result I am most satisfied with.
+
+P.S. I love my friends, I think everybody should find people with similar interests to make their days brighter, I will plug some of their GitHub profiles here in the future.
