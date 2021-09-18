@@ -5,10 +5,10 @@
 ![NyanCat](https://c.tenor.com/9zmtHZ0tIjkAAAAi/nyancat-rainbow-cat.gif)
 
 ## ✨Passions
-+ **Programming** - I enjoy front-end the most
-+ **Tech** - Reading articles, staying updated and trying it out
-+ **Gaming** - Overwatch and Final Fantasy XIV
-+ **Anime** - Mostly everything
++ **Programming** - I enjoy front-end the most.
++ **Tech** - Reading articles, staying updated and trying it out.
++ **Gaming** - Overwatch and Final Fantasy XIV.
++ **Anime** - You can check my profile [here](https://myanimelist.net/profile/Javinyx).
 
 ## 💻 Languages
 ### Learned:
