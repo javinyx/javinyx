@@ -8,7 +8,7 @@
 + **Programming** - I enjoy front-end the most.
 + **Tech** - Reading articles, staying updated and trying it out.
 + **Gaming** - Overwatch and Final Fantasy XIV.
-+ **Anime** - You can check my profile [here](https://myanimelist.net/profile/Javinyx).
++ **Anime** - You can check my MAL profile [here](https://myanimelist.net/profile/Javinyx).
 
 ## 💻 Languages
 ### Learned:
