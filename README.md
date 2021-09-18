@@ -34,3 +34,5 @@
 + Due to the things said above, plus my maniacal way of checking for spelling mistakes, things being in alphabetical (or at least a logical order) and everything being the way I like, I tend to take a little more time than usual - to reach the end result I am most satisfied with.
 
 P.S. I love my friends, I think everybody should find people with similar interests to make their days brighter, I will plug some of their GitHub profiles here in the future.
+
+![Thanks](https://user-images.githubusercontent.com/12400615/133885108-2a2f9ddb-efaa-4e70-bbed-3432d86f575e.gif)
