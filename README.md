@@ -1,6 +1,6 @@
 ## ✌ Greetings, I'm Javin Barone.
 #### 🎓 I study Computer Science Engineering @ Politecnico di Milano.
-#### 🏢 I work at Alpenite.
+#### 🏢 I work at Alpenite as a Front-end Web Developer.
 #### 🌍 I grew up in both Italy and Australia.
 
 ![NyanCat](https://c.tenor.com/9zmtHZ0tIjkAAAAi/nyancat-rainbow-cat.gif)
