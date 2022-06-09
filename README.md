@@ -1,4 +1,5 @@
 ## ✌ Greetings, I'm Javin Barone.
+<a href="https://app.daily.dev/Javinyx" style="align:right"><img src="https://api.daily.dev/devcards/82a19b490aa64b199e8c1edff4643296.png?r=er1" width="400" alt="Javin's Dev Card"/></a>
 #### 🎓 I study Computer Science Engineering @ Politecnico di Milano.
 #### 🏢 I work at Alpenite as a Front-end Web Developer.
 #### 🌍 I grew up in both Italy and Australia.
