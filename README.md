@@ -1,6 +1,8 @@
 <!--HEADER-->
 <p align="center">
-  <img src="./img/computer.gif" width="80px" alt="https://www.deviantart.com/genericcperson/art/internet-787458177" title="internet, by genericcperson on DeviantArt">
+  <picture>
+    <img src="./img/computer.gif" width="80px" alt="https://www.deviantart.com/genericcperson/art/internet-787458177" title="internet, by genericcperson on DeviantArt">
+  </picture>
 </p>
 <p align="center">
   <img src="./img/welcome.png" width="400px" alt="Welcome, I'm Javin Barone" title="Welcome, I'm Javin Barone">
@@ -14,7 +16,7 @@
 <!--INFO-->
 <h3 align="center">
   🎓&nbsp;Computer Engineering&nbsp;&nbsp;
-  ✨&nbsp;Web Development&nbsp;&nbsp;
+  ⚡&nbsp;Web Development&nbsp;&nbsp;
   🌍&nbsp;English/Italian
 </h3>
 
@@ -145,7 +147,7 @@
   ![iPadOS](https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=ios&logoColor=white)
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 </details>
 <!--/TECH-STACK-->
 
