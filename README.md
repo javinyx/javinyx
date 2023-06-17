@@ -1,53 +1,113 @@
-## ✌ Greetings, I'm Javin Barone.
-#### 🎓 I study Computer Science Engineering @ Politecnico di Milano.
-#### 🏢 I work at Alpenite as a Front-end Web Developer.
-#### 🌍 I grew up in both Italy and Australia.
+<h1 align="center">
+<img src="./img/computer.gif" width="80px">
 
-## ✨Passions
-+ **Programming** - I enjoy front-end the most.
-+ **Tech** - Reading articles, staying updated and trying it out.
-+ **Gaming** - Overwatch and Final Fantasy XIV.
-+ **Anime** - You can check my MAL profile [here](https://myanimelist.net/profile/Javinyx).
+<img src="./img/welcome.png" width="400px">
+</h1>
 
-## 💻 Languages
-### Learned:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<p align="center"><b>🎓 Computer Engineering &nbsp;&nbsp; ✨ Web Development &nbsp;&nbsp; 🌍 English/Italian</b></p>
 
-### Learning / Want to learn:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<h3 align="center"><br><img src="./img/passions.png" height="25px"></h3>
+<p align="center">🖥️ Programming &nbsp;&nbsp; 📱 Tech &nbsp;&nbsp; 🎮 Gaming &nbsp;&nbsp; 📺 Anime</h5>
 
-## ⚙ Frameworks / Libraries
-### Learned:
-![11ty](https://img.shields.io/badge/11ty-000000?style=for-the-badge&logo=eleventy&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-ff4088?style=for-the-badge&logo=hugo&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NetlifyCMS](https://img.shields.io/badge/netlifycms-81a030?style=for-the-badge&logo=netlify&logoColor=white)
+<h3 align="center"><br><img src="./img/socials.png" height="25px"></h3>
+<h2 align="center">
+<a href="https://www.linkedin.com/in/javin-barone/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20px">
+</a>
+<a href="https://www.instagram.com/javinyx/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23D53D87.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="20px">
+</a>
+<a href="https://discordapp.com/users/122329215021350914" target="_blank">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="20px">
+</a>
+<a href="https://open.spotify.com/user/1231169617?si=7cacf7c1f4fa4d62" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="20px">
+</a>
+
+<a href="https://anilist.co/user/Javinyx/animelist" target="_blank">
+<img src="https://img.shields.io/badge/anilist-%2308ACFC.svg?style=for-the-badge&logo=anilist&logoColor=white" alt="AniList" height="20px">
+</a>
+<a href="https://steamcommunity.com/id/javinyx/" target="_blank">
+<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="20px">
+</a>
+<a href="https://overwatch.blizzard.com/en-us/career/Javinyx-2529/" target="_blank">
+<img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="Battle.net" height="20px">
+</a>
+
+<a href="https://github.com/Javinyx" target="_blank">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="20px">
+</a>
+<a href="https://gitlab.com/javinyx" target="_blank">
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" height="20px">
+</a>
+
+<br>
+</h2>
+<br>
+<p align="center"><img src="./img/tech-stack.png" height="30px"></p>
+
+<details align="center">
+  <summary><p><img src="./img/languages.png" height="20px"></p></summary>
+
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![SQL](https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+</details>
+
+<details align="center">
+  <summary><p><img src="./img/frameworks.png" height="20px"></p></summary>
+
+![Astro](https://img.shields.io/badge/astro-%23f75d10.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qwik](https://img.shields.io/badge/qwik-%234a4a4a.svg?style=for-the-badge&logo=qwikjs&logoColor=f69220)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-### Learning / Want to learn:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-%2338B2AC.svg?style=for-the-badge&logo=bulma&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-## 🧠 Mindset
-+ I **HATE** disorder. I like to keep things organized, in terms of programming this means commenting code, using spaces where necessary and using a proper naming convention.
-+ I am **LAZY**, but in a good way, I don't like to waste lots of time writing bad code, so instead I try to find the most optimized way to reach a solution and I won't stop on the first thing I find.
-+ I make sure that when I start a project I have a **PLAN** in mind, else I go nowhere - for this mindmapping and drawing helps me A LOT.
-+ I want to have everything **UNDER CONTROL** - therefore I usually start projects from scratch, unless it's something unnecessary and easy.
-+ Due to the things said above, plus my maniacal way of checking for spelling mistakes, things being in alphabetical - or at least in logical - order and everything being the way I like, I tend to take a little more time than usual to reach the end result I am the most satisfied with.
+</details>
+
+<details align="center">
+  <summary><p><img src="./img/operating-systems.png" height="20px"></p></summary>
+
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  ![iPadOS](https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+</details>
+
+<h2></h2>
+<br>
+<p align="center">
+<img src="./img/cyberpunk.gif" width="400px" style="border-radius:5%">
+</p>
