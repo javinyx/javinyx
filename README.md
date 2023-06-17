@@ -1,9 +1,12 @@
-<h1 align="center">
+<p align="center">
 <img src="./img/computer.gif" width="80px">
-
+</p>
+<p align="center">
 <img src="./img/welcome.png" width="400px">
-</h1>
+</p>
 
+<h1></h1>
+<br>
 <p align="center"><b>🎓 Computer Engineering &nbsp;&nbsp; ✨ Web Development &nbsp;&nbsp; 🌍 English/Italian</b></p>
 
 <h3 align="center"><br><img src="./img/passions.png" height="25px"></h3>
@@ -40,7 +43,7 @@
 <a href="https://gitlab.com/javinyx" target="_blank">
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" height="20px">
 </a>
-
+<br>
 <br>
 </h2>
 <br>
