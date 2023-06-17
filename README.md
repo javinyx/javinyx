@@ -8,27 +8,27 @@
 <!--/HEADER-->
 
 <!--DIVIDER-->
-<h1></h1><br>
+<h1></h1>
 <!--/DIVIDER-->
 
 <!--INFO-->
-<h4 align="center">
+<h3 align="center">
   🎓&nbsp;Computer Engineering&nbsp;&nbsp;
   ✨&nbsp;Web Development&nbsp;&nbsp;
   🌍&nbsp;English/Italian
-</h4>
+</h3>
 
 <br>
 
 <p align="center">
   <img src="./img/passions.png" height="25px" alt="Passions" title="Passions">
 </p>
-<h4 align="center">
+<h3 align="center">
   🖥️&nbsp;Programming&nbsp;&nbsp;
   📱&nbsp;Tech&nbsp;&nbsp;
   🎮&nbsp;Gaming&nbsp;&nbsp;
   📺&nbsp;Anime
-</h4>
+</h3>
 
 <br>
 
