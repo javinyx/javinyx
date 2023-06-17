@@ -15,33 +15,33 @@
 <h3 align="center"><br><img src="./img/socials.png" height="25px"></h3>
 <h2 align="center">
 <a href="https://www.linkedin.com/in/javin-barone/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20px">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25px">
 </a>
 <a href="https://www.instagram.com/javinyx/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23D53D87.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="20px">
+<img src="https://img.shields.io/badge/Instagram-%23D53D87.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="25px">
 </a>
 <a href="https://discordapp.com/users/122329215021350914" target="_blank">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="20px">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="25px">
 </a>
 <a href="https://open.spotify.com/user/1231169617?si=7cacf7c1f4fa4d62" target="_blank">
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="20px">
+<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="25px">
 </a>
-
+<br>
 <a href="https://anilist.co/user/Javinyx/animelist" target="_blank">
-<img src="https://img.shields.io/badge/anilist-%2308ACFC.svg?style=for-the-badge&logo=anilist&logoColor=white" alt="AniList" height="20px">
+<img src="https://img.shields.io/badge/anilist-%2308ACFC.svg?style=for-the-badge&logo=anilist&logoColor=white" alt="AniList" height="25px">
 </a>
 <a href="https://steamcommunity.com/id/javinyx/" target="_blank">
-<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="20px">
+<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" height="25px">
 </a>
 <a href="https://overwatch.blizzard.com/en-us/career/Javinyx-2529/" target="_blank">
-<img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="Battle.net" height="20px">
+<img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="Battle.net" height="25px">
 </a>
-
+<br>
 <a href="https://github.com/Javinyx" target="_blank">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="20px">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25px">
 </a>
 <a href="https://gitlab.com/javinyx" target="_blank">
-<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" height="20px">
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" height="25px">
 </a>
 <br>
 <br>
