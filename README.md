@@ -93,7 +93,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/tech-stack.png">
-    <img src="./img/tech-stack.png" height="30px" alt="Tech Stack" title="Tech Stack">
+    <img src="./img/tech-stack.png" height="35px" alt="Tech Stack" title="Tech Stack">
   </picture>
 </p>
 
@@ -102,7 +102,7 @@
     <p>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/languages.png">
-        <img src="./img/languages.png" height="20px" alt="Languages" title="Languages">
+        <img src="./img/languages.png" height="25px" alt="Languages" title="Languages">
       </picture>
     </p>
   </summary>
@@ -127,7 +127,7 @@
     <p>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/frameworks.png">
-        <img src="./img/frameworks.png" height="20px" alt="Frameworks etc." title="Frameworks etc.">
+        <img src="./img/frameworks.png" height="25px" alt="Frameworks etc." title="Frameworks etc.">
       </picture>
     </p>
   </summary>
@@ -143,7 +143,7 @@
   [![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)](#)
   [![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)](#)
   [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-  [![Qwik](https://img.shields.io/badge/qwik-%234a4a4a.svg?style=for-the-badge&logo=qwikjs&logoColor=f69220)](#)
+  [![Qwik](https://img.shields.io/badge/qwik-%23ac7ef4.svg?style=for-the-badge&logo=react&logoColor=white)](#)
   [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
   [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](#)
   [![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)](#)
@@ -163,7 +163,7 @@
     <p>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/operating-systems.png">
-        <img src="./img/operating-systems.png" height="20px" alt="Operating Systems" title="Operating Systems">
+        <img src="./img/operating-systems.png" height="25px" alt="Operating Systems" title="Operating Systems">
       </picture>
     </p>
   </summary>
@@ -181,11 +181,56 @@
 <h1></h1><br>
 <!--/DIVIDER-->
 
+<!--GITHUB-STATS-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/github-stats.png">
+    <img src="./img/github-stats.png" height="35px" alt="GitHub Stats" title="GitHub Stats">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Javinyx&theme=nightowl&hide_border=true&border_radius=0&card_width=200&background=FFFFFF00&hide_current_streak=true&hide_longest_streak=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Javinyx&theme=nightowl&hide_border=true&border_radius=0&card_width=200&background=FFFFFF00&hide_current_streak=true&hide_longest_streak=true" alt="Contributions" title="Contributions">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Javinyx&theme=nightowl&hide_border=true&border_radius=0&card_width=200&background=FFFFFF00&hide_total_contributions=true&hide_longest_streak=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Javinyx&theme=nightowl&hide_border=true&border_radius=0&card_width=200&background=FFFFFF00&hide_total_contributions=true&hide_longest_streak=true" alt="Current Streak" title="Current Streak">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Javinyx&theme=nightowl&hide_border=true&border_radius=0&card_width=200&background=FFFFFF00&hide_total_contributions=true&hide_current_streak=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Javinyx&theme=nightowl&hide_border=true&border_radius=0&card_width=200&background=FFFFFF00&hide_total_contributions=true&hide_current_streak=true" alt="Longest Streak" title="Longest Streak">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Javinyx&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF00">
+    <img src="https://github-readme-stats.vercel.app/api?username=Javinyx&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF00" alt="GitHub Stats" title="GitHub Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Javinyx&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=FFFFFF00">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Javinyx&theme=nightowl&hide_border=true&border_radius=0&card_width=200&background=FFFFFF00&hide_total_contributions=true&hide_longest_streak=true" alt="Most Used Languages" title="Most Used Languages">
+  </picture>
+</p>
+<!--/GITHUB-STATS-->
+
+<!--DIVIDER-->
+<h1></h1><br>
+<!--/DIVIDER-->
+
 <!--FOOTER-->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/cyberpunk.gif">
     <img src="./img/cyberpunk.gif" width="400px" alt="https://www.deviantart.com/valenberg/art/Rolly-Rocket-601618597" title="Rolly Rocket, by Valenberg on DeviantArt">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://visitcount.itsvg.in/api?id=Javinyx&label=Profile%20Views&color=11&icon=5&pretty=true">
+    <img src="https://visitcount.itsvg.in/api?id=Javinyx&label=Profile%20Views&color=11&icon=5&pretty=true" alt="Profile Views" title="Profile Views">
   </picture>
 </p>
 <!--/FOOTER-->
