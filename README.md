@@ -1,8 +1,8 @@
 <!--HEADER-->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/computer.gif">
-    <img src="./img/computer.gif" width="80px" alt="https://www.deviantart.com/genericcperson/art/internet-787458177" title="internet, by genericcperson on DeviantArt">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/computer.gif">
+    <img src="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/computer.gif" width="80px" alt="https://www.deviantart.com/genericcperson/art/internet-787458177" title="internet, by genericcperson on DeviantArt">
   </picture>
 </p>
 <p align="center">
