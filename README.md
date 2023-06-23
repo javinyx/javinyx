@@ -229,8 +229,8 @@
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://visitcount.itsvg.in/api?id=Javinyx&label=Profile%20Views&color=11&icon=5&pretty=true">
-    <img src="https://visitcount.itsvg.in/api?id=Javinyx&label=Profile%20Views&color=11&icon=5&pretty=true" alt="Profile Views" title="Profile Views">
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Javinyx&style=for-the-badge&color=a758b3">
+    <img src="https://komarev.com/ghpvc/?username=Javinyx&style=for-the-badge&color=a758b3" alt="Profile Views" title="Profile Views">
   </picture>
 </p>
 <!--/FOOTER-->
