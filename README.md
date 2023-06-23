@@ -7,8 +7,8 @@
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/welcome.png">
-    <img src="./img/welcome.png" width="400px" alt="Welcome, I'm Javin Barone" title="Welcome, I'm Javin Barone">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/welcome.png">
+    <img src="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/welcome.png" width="400px" alt="Welcome, I'm Javin Barone" title="Welcome, I'm Javin Barone">
   </picture>
 </p>
 <!--/HEADER-->
@@ -28,8 +28,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/passions.png">
-    <img src="./img/passions.png" height="25px" alt="Passions" title="Passions">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/passions.png">
+    <img src="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/passions.png" height="25px" alt="Passions" title="Passions">
   </picture>
 </p>
 <h3 align="center">
@@ -43,8 +43,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/socials.png">
-    <img src="./img/socials.png" height="25px" alt="Socials" title="Socials">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/socials.png">
+    <img src="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/socials.png" height="25px" alt="Socials" title="Socials">
   </picture>
 </p>
 
@@ -92,8 +92,8 @@
 <!--TECH-STACK-->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/tech-stack.png">
-    <img src="./img/tech-stack.png" height="35px" alt="Tech Stack" title="Tech Stack">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/tech-stack.png">
+    <img src="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/tech-stack.png" height="35px" alt="Tech Stack" title="Tech Stack">
   </picture>
 </p>
 
@@ -101,8 +101,8 @@
   <summary>
     <p>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/languages.png">
-        <img src="./img/languages.png" height="25px" alt="Languages" title="Languages">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/languages.png">
+        <img src="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/languages.png" height="25px" alt="Languages" title="Languages">
       </picture>
     </p>
   </summary>
@@ -126,8 +126,8 @@
   <summary>
     <p>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/frameworks.png">
-        <img src="./img/frameworks.png" height="25px" alt="Frameworks etc." title="Frameworks etc.">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/frameworks.png">
+        <img src="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/frameworks.png" height="25px" alt="Frameworks etc." title="Frameworks etc.">
       </picture>
     </p>
   </summary>
@@ -162,8 +162,8 @@
   <summary>
     <p>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/operating-systems.png">
-        <img src="./img/operating-systems.png" height="25px" alt="Operating Systems" title="Operating Systems">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/operating-systems.png">
+        <img src="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/operating-systems.png" height="25px" alt="Operating Systems" title="Operating Systems">
       </picture>
     </p>
   </summary>
@@ -184,8 +184,8 @@
 <!--GITHUB-STATS-->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/github-stats.png">
-    <img src="./img/github-stats.png" height="35px" alt="GitHub Stats" title="GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/github-stats.png">
+    <img src="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/github-stats.png" height="35px" alt="GitHub Stats" title="GitHub Stats">
   </picture>
 </p>
 
@@ -223,8 +223,8 @@
 <!--FOOTER-->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/cyberpunk.gif">
-    <img src="./img/cyberpunk.gif" width="400px" alt="https://www.deviantart.com/valenberg/art/Rolly-Rocket-601618597" title="Rolly Rocket, by Valenberg on DeviantArt">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/cyberpunk.gif">
+    <img src="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/cyberpunk.gif" width="400px" alt="https://www.deviantart.com/valenberg/art/Rolly-Rocket-601618597" title="Rolly Rocket, by Valenberg on DeviantArt">
   </picture>
 </p>
 <p align="center">
