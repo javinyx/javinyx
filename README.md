@@ -18,13 +18,11 @@
 <!--/DIVIDER-->
 
 <!--INFO-->
-<p align="center">
-<strong>
+<h3 align="center">
   🎓&nbsp;Computer Engineer&nbsp;&nbsp;
   ✨&nbsp;Web Development&nbsp;&nbsp;
   🌍&nbsp;English/Italian
-</strong>
-</p>
+</h3>
 
 <br>
 
@@ -34,12 +32,12 @@
     <img src="https://raw.githubusercontent.com/Javinyx/Javinyx/main/img/passions.png" height="25px" alt="Passions" title="Passions">
   </picture>
 </p>
-<p align="center">
+<h3 align="center">
   🖥️&nbsp;Programming&nbsp;&nbsp;
   📱&nbsp;Tech&nbsp;&nbsp;
   🎮&nbsp;Gaming&nbsp;&nbsp;
   📺&nbsp;Anime
-</p>
+</h3>
 
 <br>
 
