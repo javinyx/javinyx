@@ -18,11 +18,13 @@
 <!--/DIVIDER-->
 
 <!--INFO-->
+<span>
 <h3 align="center">
   🎓&nbsp;Computer Engineer&nbsp;&nbsp;
   ✨&nbsp;Web Development&nbsp;&nbsp;
   🌍&nbsp;English/Italian
 </h3>
+</span>
 
 <br>
 
