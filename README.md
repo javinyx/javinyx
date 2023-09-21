@@ -19,7 +19,7 @@
 
 <!--INFO-->
 <h3 align="center">
-  🎓&nbsp;Computer Science Engineer&nbsp;&nbsp;
+  🎓&nbsp;Software Engineer&nbsp;&nbsp;
   ✨&nbsp;Web Development&nbsp;&nbsp;
   🌍&nbsp;English/Italian
 </h3>
